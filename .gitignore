@@ -1,0 +1,7 @@
+build
+build*
+CMakeLists.txt.user
+imgui.ini
+*.swp
+*.kdev4
+.kdev4
